@@ -1,4 +1,4 @@
-# Pic-Sell-Planet
+# Pic-Sell Planet
 An Online Multimedia Services Management Portal with 2D Mapping
 try our website at https://www.picsellplanet.com/
 
